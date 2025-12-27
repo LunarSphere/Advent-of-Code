@@ -53,13 +53,13 @@ def dp(r, c) -> int:
     """
 
     data = load_data()
-    #we've reached the bottom of a path so return 1
+    #we've reached the end of a path
     if r >= len(data):
         return 1
-    #if ^ call for left and right path until bottom
+    #if ^ call for left and right path 
     if data[r][c] == '^':
         return dp(r, c - 1) + dp(r, c + 1)
-    #if no split dp but we do straight down until bottom
+    #if no split call straight down
     else:
         return dp(r + 1, c)
 
