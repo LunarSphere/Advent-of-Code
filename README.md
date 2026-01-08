@@ -20,3 +20,4 @@ I plan to go back and finish the previous years as well.
 
 To run each Day $python Day{#}.py
 
+you can generate daily boilerplate w/ $python boilerplate.py Day{X}.py
