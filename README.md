@@ -1,3 +1,17 @@
-# Advent of Code
-This repository contains my solutions for advent of code 2025
-I'll probably revisit some past ones in the future
+# Advent of Code 
+
+## Years Completed
+| Year |  |
+|------|--|
+| 2015 |  |
+| 2016 |  |
+| 2017 |  |
+| 2018 |  |
+| 2019 |  |
+| 2020 |  |
+| 2021 |  |
+| 2022 |  |
+| 2023 |  |
+| 2024 |  |
+| 2025 | ★ |
+| 2026 |  |
